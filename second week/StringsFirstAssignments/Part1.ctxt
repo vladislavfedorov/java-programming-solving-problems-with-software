@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Finding\ a\ Gene\ and\ Web\ Links.\r\n\ \r\n\ @author\ (Vladislav\ Fedorov)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testFindGeneSimple()
+numComments=3
