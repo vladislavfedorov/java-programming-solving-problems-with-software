@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Week04_miniProject_Quiz
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=year\ name\ gender
+comment2.target=int\ getTotalBirthsRankedHigher(int,\ java.lang.String,\ java.lang.String)
+comment3.params=name\ gender
+comment3.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+comment4.params=name\ gender
+comment4.target=int\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment5.params=name\ year1\ year2\ gender
+comment5.target=void\ whatIsNameInYear(java.lang.String,\ int,\ int,\ java.lang.String)
+comment6.params=year\ rank\ gender
+comment6.target=java.lang.String\ getName(int,\ int,\ java.lang.String)
+comment7.params=year\ name\ gender
+comment7.target=int\ getRank(int,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ totalBirths()
+numComments=9

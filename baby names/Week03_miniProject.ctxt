@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Week03_miniProject
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=year\ name\ gender
+comment2.target=int\ getRank(int,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ totalBirths()
+numComments=4
